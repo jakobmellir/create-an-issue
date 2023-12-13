@@ -1,0 +1,4 @@
+Hello, I would like to report that it is currently not possible to re-assign a ZD ticket that came in as a concierge service request to agents in the hotel sub-group.
+There are however customers who use that request form for various types of requests, even if they are not for bookings that are done using this service
+See this ticket as an example: https://tripclickpro.zendesk.com/agent/tickets/518197 
+I was only able to re-assign this to a different agent after changing the request type on the left panel in the Zendesk ticket, but doing so falsifies some statistics on what our customers use to contact support
